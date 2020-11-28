@@ -199,7 +199,7 @@ def glize(node):
 
 		glUniform3f(
 			glGetUniformLocation(shader, "light"),
-			-100, 185, 0.2
+			-80, 185, 0.2
 		)
 
 		glUniform4f(
