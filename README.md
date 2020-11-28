@@ -11,7 +11,7 @@ Visualizador de modelos obj
 ## Para cambiar SHADERS
 - S multicolor
 - D navideno
-- G atlantis, recomiendo ponerle pausa [presionando x] cuando este de grente para ver la transision de color bien
+- G atlantis, recomiendo ponerle pausa [presionando x] cuando este de viendo al frente para ver la transision de color bien
 - H cuadritos que se hacen mas pequenos, dejar pasar un poco de tiempo para ver como se hacen pequenos
 
 ## Para cambiar TEXTURAS
