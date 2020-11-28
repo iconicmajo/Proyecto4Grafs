@@ -7,6 +7,8 @@ Visualizador de modelos obj
 - LEFT mueve la camara a la izquierda
 - RIGHT mueve la camara a la derecha
 - X poner/quitar pausa
+- W ver por poligonos
+- F rellenar de nuevo la figura solida
 
 ## Para cambiar SHADERS
 - S multicolor
